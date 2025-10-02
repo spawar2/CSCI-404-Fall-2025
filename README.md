@@ -71,6 +71,7 @@ https://shiny.posit.co/
 https://cran.r-project.org/package=ggbeeswarm
 https://cran.r-project.org/package=speedglm
 https://magrittr.tidyverse.org/
+https://www.rdocumentation.org/packages/rpart/versions/4.1.24/topics/rpart
 
 https://www.python.org/
 https://scikit-learn.org/
