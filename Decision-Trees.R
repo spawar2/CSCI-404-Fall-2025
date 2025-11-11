@@ -2,6 +2,7 @@
 
 install.packages("rpart")
 
+# Load the library
 library(rpart)
 
 # Load some dummy dataset
