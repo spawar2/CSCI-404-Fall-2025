@@ -5,7 +5,7 @@ Intro to Artificial Intelligence (Data wrangling, visualization, prediction wit
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 ![download](https://github.com/user-attachments/assets/4d827c18-193c-41eb-add0-d7c2bc7e34ed)
 https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
-Tree-based-models.Rd_.R, ML_techniques_in_R, Linear_Regression_R.R: library(rpart); library(caret) rpart(), printcp(fit), plotcp(fit), prune(), sapply(), trainControl(), resamples(), list(), train(), predict(), confusionMatrix(), scatter.smooth(), cor(), lm(), cbind().
+Tree-based-models.Rd_.R, ML_techniques_in_R, Linear_Regression_R.R: library(rpart); library(caret) rpart(), printcp(fit), plotcp(fit), prune(), sapply(), trainControl(), resamples(), list(), train(), predict(), confusionMatrix(), scatter.smooth(), cor(), lm(), cbind(), head(), table().
 https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 Data Science:
 [R: ggpubr, tidyverse, datarium, dplyr].
