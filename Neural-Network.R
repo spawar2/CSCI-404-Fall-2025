@@ -40,3 +40,15 @@ summary(results)
 predictions on the validation dataset
 predictions <- predict(fit.lda, validation)
 confusionMatrix(predictions, validation$Species
+
+                #Load the library
+                library(nnet)
+# Example using the 'iris' dataset
+# Create a training and testing set
+set.seed(123)
+indexes <- sample(1:nrow(iris), size = 0.7 * nrow(iris))
+train_data <- iris[indexes, ]
+test_data <- iris[-indexes, ]
+
+# Train a neural network
+nn_model <- nnet(Species ~ ., data = train_data, size = 10, decay = 5e-4, maxit = 200)
